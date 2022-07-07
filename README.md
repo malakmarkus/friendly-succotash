@@ -23,10 +23,15 @@ THEN I am able to successfully create, update, and delete data in my database
 ## **Installation**
 
 You will need to run the folllwing commands
-mysql -u root -p you will be asked to enter your password
+
+"mysql -u root -p" you will be asked to enter your password
+
 source db/schema.sql
+
 quit
+
 npm run seed
+
 npm start
 
 
