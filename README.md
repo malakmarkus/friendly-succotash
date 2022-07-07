@@ -34,4 +34,11 @@ npm run seed
 
 npm start
 
+## **Walkthrough Video**
+
+
+
+
+https://user-images.githubusercontent.com/94266004/177710113-3c1e0d84-3283-40e4-863f-f44e168d1347.mp4
+
 
